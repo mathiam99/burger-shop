@@ -27,73 +27,55 @@ class BurgerList extends StatelessWidget {
         children: <Widget>[
 
           ListTile(
-            title: Text("Hamburger Simple"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
+            title: Text("Burger vegan"),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
             trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
           ),
 
           ListTile(
-            title: Text("Hamburger Royal"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
+            title: Text("Cheeseburger"),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
             trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
           ),
 
           ListTile(
-            title: Text("Double Cheese"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
-            trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
-          ),
-
-          ListTile(
-            title: Text("Double Steak"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
-            trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
-          ),
-          ListTile(
-            title: Text("Hamburger Simple"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
-            trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
-          ),
-
-          ListTile(
-            title: Text("Hamburger Royal"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
-            trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
-          ),
-
-          ListTile(
-            title: Text("Double Cheese"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
+            title: Text("Steak burger"),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
             trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
           ),
 
           ListTile(
             title: Text("Double Steak"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
+            trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
+          ),
+          ListTile(
+            title: Text("Burger vegan"),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
             trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
           ),
 
           ListTile(
-            title: Text("Hamburger Simple"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
+            title: Text("Cheeseburger"),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
             trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
           ),
 
           ListTile(
-            title: Text("Hamburger Royal"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
-            trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
-          ),
-
-          ListTile(
-            title: Text("Double Cheese"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
+            title: Text("Steak burger"),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
             trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
           ),
 
           ListTile(
             title: Text("Double Steak"),
-            subtitle: Text("Oeuf, Steak, Cheese, Salad, Tomatoes..."),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
+            trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
+          ),
+
+          ListTile(
+            title: Text("Burger vegan"),
+            subtitle: Text("eggs, Steak, Cheese, Salad, Tomatoes..."),
             trailing: IconButton(icon : Icon(Icons.add_shopping_cart)),
           ),
         ],
